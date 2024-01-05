@@ -5,14 +5,21 @@
 <!-- project philosophy -->
 <img src="./readme/title2.svg"/>
 
-> A mobile app for ordering coffee on-the-go, making it easier for coffee lovers to get their favorite beverages without waiting in line.
->
-> Coffee Express aims to streamline the coffee-ordering process by providing a user-friendly platform for customers to place orders and pick up their coffee at their convenience. We believe in enhancing the coffee experience by saving time and ensuring customer satisfaction.
+> An AI Podcast app for a seamless audio content experience, empowering users to convert text to speech based on their chosen topics. By leveraging AI technology, our goal is to transform written content into engaging audio, providing a convenient and personalized way for users to consume their favorite content.
 
 ### User Stories
-- As a user, I want to browse the menu, so I can find my favorite coffee drinks.
-- As a user, I want to customize my order, so I can add or remove ingredients according to my preferences.
-- As a user, I want to pay for my order through the app, so I can avoid waiting in line at the store.
+- As a user, I want to input or select topics of interest, so the AI can generate an audio podcast relevant to my preferences.
+- As a user, I want to customize the voice and speed of the generated audio, ensuring a personalized listening experience.
+- As a user, I want the ability to save and share the generated audio files, enhancing the convenience of consuming content on-the-go.
+
+### How It Works
+1. **Topic Selection:** Users can input or choose specific topics of interest, ranging from news articles, blog posts, or any written content.
+2. **AI Conversion:** Our advanced AI algorithms analyze the text, generating a natural-sounding audio file that captures the essence of the content.
+3. **Customization Options:** Users can personalize the listening experience by adjusting voice preferences and playback speed.
+4. **Save and Share:** The app allows users to save their favorite audio files for later listening and share them effortlessly.
+
+By creating an intelligent and customizable podcast experience, we aim to redefine how users consume information, providing a tool that adapts to their preferences and schedules.
+
 
 <br><br>
 
